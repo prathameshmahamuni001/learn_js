@@ -1,15 +1,38 @@
-let name = "pratham"
-let age = 21
-let gender_male = true
-let state;
+// let name = "pratham"
+// let age = 21
+// let gender_male = true
+// let state;
 
-let diesl = 1000*15
-//number = 2^53 tak hi numbers store krskte memory me
-//bigint .. rarely use
-//string => ""
-//boolean => true/false
-//symbols => unique
+// let diesl = "223fafn"
 
-console.table([name, age, gender_male, state, diesl])
 
-console.log(typeof "true") //to find the type of the entity
+// //number = 2^53 tak hi numbers store krskte memory me
+// //bigint .. rarely use
+// //string => ""
+// //boolean => true/false
+// //symbols => unique
+
+// console.table([name, age, gender_male, state, diesl])
+
+// console.log(typeof "true") //to find the type of the entity
+// console.log(typeof ("true")) //to find the type of the entity
+
+// let varEntity = Number(diesl) //convert karte hai aise  
+// // let varEntity = String(diesl)
+// console.log(typeof varEntity); 
+// console.log(varEntity); 
+
+let loggin = "pratham"
+let joggin = ""
+
+let variable = Boolean(loggin)
+console.log(typeof variable);
+console.log(variable);
+
+let tariabe = Boolean(joggin)
+console.log(typeof tariabe);
+console.log(tariabe);
+
+// 1 -> True / 0 -> false
+// "" -> False / "pratham" -> True ... for boolean
+
