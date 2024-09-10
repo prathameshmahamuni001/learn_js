@@ -36,3 +36,29 @@ console.log(tariabe);
 // 1 -> True / 0 -> false
 // "" -> False / "pratham" -> True ... for boolean
 
+
+// There are two categories of data types:
+/*
+1)Primitive: These are call-by-value. The types of primitive data types include String, Number, 
+Boolean, Null, Undefined, Symbol, and BigInt. Note that Symbols uniquely identify variables, even 
+if two variables have the same data and data type. Primitive variables datatype is same but null 
+datatype is object 
+2) Non-primitive: These are call-by-reference. The types of non-primitive data types are Array, 
+Object, and Function. The data type for these is 'object,' but for functions, they return a data 
+type of 'function,' though they also have an object data type.
+// Return type of variables in JavaScript
+// 1) Primitive Datatypes
+//        Number => number
+//        String  => string
+//        Boolean  => boolean
+//        null  => object
+//        undefined  =>  undefined
+//        Symbol  =>  symbol
+//        BigInt  =>  bigint
+
+// 2) Non-primitive Datatypes
+//        Arrays  =>  object
+//        Function  =>  function
+//        Object  =>  object
+*/
+
